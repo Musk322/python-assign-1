@@ -1,4 +1,4 @@
-#name=muskan kumari
+#Name=Muskan kumari
 #Roll no=2501010265
 #Date=07 oct,2025
 #Project:Building a calorie tracking console app
